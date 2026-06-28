@@ -7,8 +7,7 @@ from airflow.decorators import task
 
 
 
-LATITUDE = '40.7128feature2'
-
+LATITUDE = '40.7128f2'
 LONGITUDE = '-0.1278'
 POSTGRES_CONN_ID = 'postgres_default'
 API_CONN_ID = 'open_meteo_api'
